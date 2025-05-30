@@ -23,3 +23,6 @@ print("Multiplicación:", multiplicar(4, 2))
 print("División:", dividir(4, 2))
 
 print("Jose kl paga las PIPshaz")
+
+
+print("Jose quiere jugan con la rama")
