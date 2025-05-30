@@ -21,3 +21,5 @@ print("Suma:", suma(4, 2))
 print("Resta:", resta(4, 2))
 print("Multiplicación:", multiplicar(4, 2))
 print("División:", dividir(4, 2))
+
+print("Jose kl paga las PIPshaz")
